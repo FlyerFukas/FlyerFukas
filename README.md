@@ -1,29 +1,23 @@
 ### Furkan Akduman
 
-Statistics student in Istanbul who builds AI-assisted systems that collect data, check it for errors, and turn it into reports.
+Applied AI & Automation Specialist. I build AI agents, workflow automations and data products with checks, audit trails and cost control built in.
 
-**Looking for:** operations or data/analytics roles at early-stage startups. 3.5 days a week during term (Istanbul or remote), full time after June 2027.
+**Looking for:** AI Consultant or AI Automation roles. Full time from January 2027; open to relocation (EU, UAE, Americas) or remote.
 
 #### Selected work
 
-| Project | Business problem | Result you can check |
+| Project | What it does | Result |
 |---|---|---|
-| [MizanKöprü](https://github.com/FlyerFukas/mizankopru) | Month-end consolidation and internal control for a group of companies reporting in several currencies | Flags all 14 errors deliberately planted in its synthetic demo data; 24 internal control tests |
-| [RafRadar](https://github.com/FlyerFukas/rafradar) | How visible is a brand on the online shelf, meaning Trendyol and N11 search results? | Bundled demo: 24 searches, 1,222 listings. The "multivitamin" search returns 36 results, none from the brand |
-| [LeadRadar](https://github.com/FlyerFukas/leadradar) | Find local businesses with missing or broken websites and qualify them as sales leads | One PDF page of evidence per prospect; a HIGH score needs verified findings, impressions alone never qualify |
-| [gozetimli-ogrenme](https://github.com/FlyerFukas/gozetimli-ogrenme), [gozetimsiz-ogrenme](https://github.com/FlyerFukas/gozetimsiz-ogrenme) | Is a model's reported accuracy real? Reference code written from scratch and checked against scikit-learn | 562 and 275 tests. Rebuilding every worked example exposed 5 and 10 errors in the course notes |
-| [Angie](https://github.com/FlyerFukas/angie) | A personal assistant in Turkish over Telegram: calendar, mail, tasks, contacts | Runs on n8n 2.x, where its template broke; documents 10 n8n pitfalls and fixes 4 template bugs |
-| [Bölüm Takip](https://github.com/FlyerFukas/programtakip) | Tracks master's applications around the deadline that actually binds a non-EU applicant | Deployed on Vercel as a login-protected personal tool; 240 automated checks |
+| [MizanKöprü](https://furkanakduman.vercel.app/work/mizankopru) | Month-end close and internal control for multi-entity, multi-currency groups | Found all 14 errors planted in its synthetic demo set. [Live demo](https://furkanakduman.vercel.app/demo/mizankopru/index.html) |
+| [Burs Takip](https://furkanakduman.vercel.app/work/burs-takip) | Matches students with scholarships and master's programmes, requirement by requirement | Live multi-user product |
+| [Storevoy](https://storevoy.com) | Finds businesses with missing or broken websites in 101 countries and 67 sectors | Live, invite-only research data product |
+| [Angie](https://github.com/FlyerFukas/angie) | A Turkish-speaking personal assistant in Telegram | Calendar, email, tasks and contacts from one message |
+| [RafRadar](https://github.com/FlyerFukas/rafradar) | Measures a brand's visibility in e-commerce search results | Sample run: 24 searches, 1,222 listings |
 
-#### How I work
-
-- **The engine produces the numbers; AI only interprets them.** In MizanKöprü, switching the AI layer off leaves every figure unchanged.
-- **Missing data is never skipped silently.** A step that cannot run is reported with its reason, and the closing verdict becomes conditional.
-- **Every system has an independent check.** MizanKöprü re-reads the raw files without the pipeline's own code; its demo data carries an answer key the pipeline never reads.
+More case studies: **[furkanakduman.vercel.app](https://furkanakduman.vercel.app)**
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/furkanakduman/)
+[LinkedIn](https://www.linkedin.com/in/furkanakduman/) · [Portfolio](https://furkanakduman.vercel.app)
 
-<sub>Stack: Python, pandas, NumPy, scikit-learn, TypeScript, Next.js, Postgres, n8n, Claude API.</sub><br>
-<sub>Most repositories are source-available: free for noncommercial use (PolyForm Noncommercial 1.0.0); commercial use requires a licence.</sub>
+<sub>Projects are commercial work. Source code is private; demos and licences on request.</sub>
