@@ -1,23 +1,51 @@
-<a href="https://furkanakduman.vercel.app"><img src="assets/kart/kahraman.png" alt="Furkan Akduman, Applied AI and Automation, Istanbul. I build AI systems that businesses can trust: agents, automations and data products with checks, audit trails and cost control built in. RafRadar audited 1,222 store listings, Angie documents 10 n8n 2.x pitfalls, and six statistics projects come with data and reports." width="100%"></a>
+# Furkan Akduman
 
-**Looking for:** AI Consultant or AI Automation roles. Full time from January 2027; open to relocation (EU, UAE, Americas) or remote.
+Applied AI and automation, Istanbul. I build AI systems that businesses can trust: agents, automations and data products with checks, audit trails and cost control built in. Statistics student at Mimar Sinan Fine Arts University.
 
-Statistics student at Mimar Sinan Fine Arts University, Istanbul. Portfolio: **[furkanakduman.vercel.app](https://furkanakduman.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/furkanakduman/)
+**Looking for:** AI Consultant or AI Automation roles, full time from January 2027. Open to relocation (EU, UAE, Americas) or remote.
 
-### Selected work
+[Portfolio](https://furkanakduman.vercel.app) · [LinkedIn](https://www.linkedin.com/in/furkanakduman/)
 
-Click a card for the code.
+<table><tr><td valign="top" width="34%">
 
-<a href="https://github.com/FlyerFukas/rafradar-kod"><img src="assets/kart/rafradar.png" alt="RafRadar, open code: digital shelf audit for Trendyol and N11 search results. In the demo, none of the 36 multivitamin results show the brand." width="49%"></a>
-<a href="https://github.com/FlyerFukas/angie-kod"><img src="assets/kart/angie.png" alt="Angie, open code: personal assistant that speaks Turkish in Telegram. Documents 10 n8n 2.x pitfalls and fixes 4 template bugs." width="49%"></a>
+### Open code
 
-<a href="https://github.com/FlyerFukas/gelir-gider"><img src="assets/kart/gelir-gider.png" alt="Gelir Gider, open code and live app: income and expense tracker that works offline and keeps every record on the phone." width="49%"></a>
-<a href="https://github.com/FlyerFukas/erisilebilirlik"><img src="assets/kart/erisilebilirlik.png" alt="Erişilebilirlik, open code: checks whether people can use an interface without a manual. Audit of this portfolio's code page: cognitive load 95, intuitive interaction 95, information scent 90, no critical findings." width="49%"></a>
+- [Angie](https://github.com/FlyerFukas/angie-kod): Telegram assistant in Turkish on n8n and Claude; documents 10 n8n 2.x pitfalls
+- [RafRadar](https://github.com/FlyerFukas/rafradar-kod): how visible a brand is in Trendyol and N11 search
+- [Erişilebilirlik](https://github.com/FlyerFukas/erisilebilirlik): checks whether people can use an interface without a manual
+- [İlişki Haritası](https://github.com/FlyerFukas/iliski-haritasi-acik): contact tracker on Ferrazzi's method
+- [Gelir Gider](https://github.com/FlyerFukas/gelir-gider): offline budget app, [live](https://gelir-gider-iota.vercel.app)
+- [Aylık Finans](https://github.com/FlyerFukas/aylik-finans): reads bank statements, feeds Gelir Gider
+- [VoxCPM2 Turkish voices](https://github.com/FlyerFukas/voxcpm2-turkce-ses-tasarimi): voice design on a 4 GB GPU
+- [Commerce Digital](https://github.com/FlyerFukas/commerce-digital-skills): 6 Claude skills from 5 behavioural-psychology books
 
-<a href="https://github.com/FlyerFukas/iliski-haritasi-acik"><img src="assets/kart/iliski-haritasi.png" alt="İlişki Haritası, open code: personal contact tracker on Keith Ferrazzi's method, with contact intervals of 14, 30 and 60 days by priority." width="49%"></a>
-<a href="https://github.com/FlyerFukas/istatistik-okul-projeleri"><img src="assets/kart/okul-projeleri.png" alt="Statistics coursework, open: six university projects in optimisation, game theory, regression, R and Excel, each with report, data and model files." width="49%"></a>
+</td><td valign="top" width="33%">
 
-Also on the portfolio: [AI Quality Gate](https://furkanakduman.vercel.app/work/ai-quality-gate), which measures what an AI coding agent ships and decides when it may not decide alone, and [Outreach Research Agent](https://furkanakduman.vercel.app/work/outreach-agent), which researches a company and drafts a first message, evaluated on cost and errors.
+### Live products
+
+**[Aramızda Kalsın](https://aramizdakalsin.app)**<br>
+A Turkish social network where people share failures anonymously and answer with "me too" instead of likes: the anti-LinkedIn. Built on Next.js and Postgres with eight cloud services; code is private.
+
+**[MizanKöprü](https://furkanakduman.vercel.app/work/mizankopru)**<br>
+Month-end close and internal control engine where the language model never touches a number. Found all 14 errors planted in its synthetic demo set: [try the demo](https://furkanakduman.vercel.app/demo/mizankopru/index.html).
+
+</td><td valign="top" width="33%">
+
+### Recently updated
+
+<!-- son-isler basla -->
+- [commerce-digital-skills](https://github.com/FlyerFukas/commerce-digital-skills) · 2026-11-18
+- [aylik-finans](https://github.com/FlyerFukas/aylik-finans) · 2026-11-18
+- [iliski-haritasi-acik](https://github.com/FlyerFukas/iliski-haritasi-acik) · 2026-11-18
+- [gelir-gider](https://github.com/FlyerFukas/gelir-gider) · 2026-11-18
+- [erisilebilirlik](https://github.com/FlyerFukas/erisilebilirlik) · 2026-11-17
+<!-- son-isler bitir -->
+
+### Statistics
+
+[Six coursework projects](https://github.com/FlyerFukas/istatistik-okul-projeleri): portfolio optimisation, game theory as a linear program, regression, R and Excel, each with report and data.
+
+</td></tr></table>
 
 ### How I work
 
@@ -25,4 +53,4 @@ Also on the portfolio: [AI Quality Gate](https://furkanakduman.vercel.app/work/a
 - **Missing data is never skipped silently.** A step that cannot run is reported with its reason.
 - **Every system has an independent check.** Demo data carries an answer key the pipeline never reads.
 
-<sub>Open repositories are free for noncommercial use (PolyForm Noncommercial 1.0.0); commercial use needs a licence.</sub>
+<sub>Open repositories are free for noncommercial use (PolyForm Noncommercial 1.0.0); commercial use needs a licence. The "Recently updated" list refreshes daily.</sub>
